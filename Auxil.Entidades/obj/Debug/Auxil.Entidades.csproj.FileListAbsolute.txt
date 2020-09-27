@@ -1,0 +1,4 @@
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Entidades\bin\Debug\Auxil.Entidades.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Entidades\bin\Debug\Auxil.Entidades.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Entidades\obj\Debug\Auxil.Entidades.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Entidades\obj\Debug\Auxil.Entidades.pdb

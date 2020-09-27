@@ -1,0 +1,33 @@
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\Auxil.exe.config
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\obj\Release\Auxil.csprojResolveAssemblyReference.cache
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\obj\Release\Auxil.frmAux.resources
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\obj\Release\Auxil.Properties.Resources.resources
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\obj\Release\Auxil.csproj.GenerateResource.Cache
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\app.config
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\Auxil.exe
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\Auxil.pdb
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\Antlr3.Runtime.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\Auxil.AcessoDados.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\Auxil.Entidades.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\Auxil.Replica.exe
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\Castle.Core.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\Castle.DynamicProxy2.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\Conexao.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\FluentNHibernate.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\Iesi.Collections.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\log4net.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\NHibernate.ByteCode.Castle.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\NHibernate.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\NHibernate.Linq.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\system.data.sqlite.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\Util.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\Conexao.pdb
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\Util.pdb
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\Auxil.AcessoDados.pdb
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\Auxil.Entidades.pdb
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\bin\Release\Auxil.Replica.pdb
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\obj\Release\Auxil.exe
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil\obj\Release\Auxil.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil\bin\Release\Auxil.exe.config
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil\obj\Release\Auxil.exe
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil\obj\Release\Auxil.pdb

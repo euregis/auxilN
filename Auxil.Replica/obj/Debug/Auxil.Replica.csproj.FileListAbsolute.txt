@@ -1,0 +1,16 @@
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Replica\bin\Debug\Auxil.Replica.exe.config
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Replica\bin\Debug\Auxil.Replica.exe
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Replica\bin\Debug\Auxil.Replica.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Replica\bin\Debug\Auxil.AcessoDados.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Replica\bin\Debug\Auxil.Entidades.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Replica\bin\Debug\Conexao.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Replica\bin\Debug\Util.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Replica\bin\Debug\Conexao.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Replica\bin\Debug\Util.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Replica\bin\Debug\Auxil.AcessoDados.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Replica\bin\Debug\Auxil.Entidades.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Replica\obj\Debug\Auxil.Replica.csprojResolveAssemblyReference.cache
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Replica\obj\Debug\Auxil.Replica.Properties.Resources.resources
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Replica\obj\Debug\Auxil.Replica.csproj.GenerateResource.Cache
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Replica\obj\Debug\Auxil.Replica.exe
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Replica\obj\Debug\Auxil.Replica.pdb

@@ -1,0 +1,42 @@
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\obj\Release\Auxil.AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\Auxil.AcessoDados.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\Auxil.AcessoDados.pdb
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\Antlr3.Runtime.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\Auxil.Entidades.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\Castle.Core.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\Castle.DynamicProxy2.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\Conexao.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\FluentNHibernate.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\Iesi.Collections.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\log4net.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\NHibernate.ByteCode.Castle.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\NHibernate.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\NHibernate.Linq.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\system.data.sqlite.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\Util.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\Conexao.pdb
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\Util.pdb
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\bin\Release\Auxil.Entidades.pdb
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\obj\Release\Auxil.AcessoDados.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.AcessoDados\obj\Release\Auxil.AcessoDados.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\Auxil.AcessoDados.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\Auxil.AcessoDados.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\Antlr3.Runtime.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\Auxil.Entidades.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\Castle.Core.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\Castle.DynamicProxy2.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\Conexao.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\FluentNHibernate.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\Iesi.Collections.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\log4net.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\NHibernate.ByteCode.Castle.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\NHibernate.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\NHibernate.Linq.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\system.data.sqlite.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\Util.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\Conexao.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\Util.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Release\Auxil.Entidades.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\obj\Release\Auxil.AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\obj\Release\Auxil.AcessoDados.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\obj\Release\Auxil.AcessoDados.pdb

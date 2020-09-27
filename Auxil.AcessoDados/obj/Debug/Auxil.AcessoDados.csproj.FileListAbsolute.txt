@@ -1,0 +1,11 @@
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Debug\Auxil.AcessoDados.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Debug\Auxil.AcessoDados.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Debug\Auxil.Entidades.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Debug\Conexao.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Debug\Util.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Debug\Conexao.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Debug\Util.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\bin\Debug\Auxil.Entidades.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\obj\Debug\Auxil.AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\obj\Debug\Auxil.AcessoDados.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.AcessoDados\obj\Debug\Auxil.AcessoDados.pdb

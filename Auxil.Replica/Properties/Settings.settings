@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Auxil.Replica.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Rede" Type="System.String" Scope="User">
+      <Value Profile="(Default)">G:\Projetos\GD4253S477\Auxil\ProcessosCompart.db3</Value>
+    </Setting>
+    <Setting Name="Local" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\i336796\Documents\R\Util\Processos.db3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

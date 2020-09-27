@@ -1,0 +1,10 @@
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.Entidades\bin\Release\Auxil.Entidades.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.Entidades\bin\Release\Auxil.Entidades.pdb
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.Entidades\obj\Release\Auxil.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.Entidades\obj\Release\Auxil.Entidades.dll
+C:\Users\eureg\Downloads\H\Nova pasta\AuxilN\Auxil.Entidades\obj\Release\Auxil.Entidades.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Entidades\bin\Release\Auxil.Entidades.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Entidades\bin\Release\Auxil.Entidades.pdb
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Entidades\obj\Release\Auxil.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Entidades\obj\Release\Auxil.Entidades.dll
+C:\Users\eureg\OneDrive\Documents\Projetos\AuxilN\Auxil.Entidades\obj\Release\Auxil.Entidades.pdb
